@@ -1,4 +1,4 @@
-# 🌾 AgroLink — Farmer-to-Customer E-Commerce Platform
+# 🌾 AgroLink — Farmer-to-Customer E-Commerce Platform (Group project)
 
 A full-stack web application connecting farmers directly with customers — farmers list produce, customers browse, add to cart, checkout, and pay, while farmers manage orders and deliveries. Built with PHP, MySQL, HTML/CSS, and JavaScript.
 
